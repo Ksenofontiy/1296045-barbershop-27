@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Александр Поштаренко](https://up.htmlacademy.ru/htmlcss/27/user/1296045).
+Настваник: [Антон Попов] (https://htmlacademy.ru/profile/joker)
 
 ---
 
